@@ -1,29 +1,26 @@
-# 🚀 Amigo Secreto (Secret Santa) - Raffle Manager
+# 🎨 DrawMasterJS
 
-A sleek and intuitive web application designed to automate the "Secret Santa" draw process. This project was developed as part of the **Oracle Next Education (ONE)** challenge, focusing on clean JavaScript logic, DOM manipulation, and responsive UI design.
+A dynamic and interactive drawing application built with vanilla JavaScript and HTML5 Canvas. **DrawMasterJS** allows users to unleash their creativity through a sleek, responsive interface with real-time brush customization.
 
+<p align="center">
+  <img src="assets/preview-drawmaster.png" alt="DrawMasterJS Interface Preview" width="800">
+</p>
 
+## 🎯 Project Overview
+This project was developed to explore the power of the **Canvas API** and state management in JavaScript. It features a clean UI/UX, theme switching capabilities, and precise drawing tools, making it a perfect example of functional and aesthetic frontend development.
 
-## 🌟 Key Features
-
-*   **Dynamic Participant Listing:** Real-time addition of friends to the raffle pool.
-*   **Validation Logic:** Integrated error handling to prevent empty entries or insufficient participants.
-*   **Randomized Draw Engine:** Uses a robust randomization algorithm to ensure a fair and unique selection.
-*   **Responsive Design:** Fully optimized for both desktop and mobile viewing.
-*   **Instant Results:** Visual feedback of the draw result with the ability to reset.
+## ✨ Key Features
+*   **Precision Drawing:** Smooth brush strokes with adjustable thickness and opacity.
+*   **Custom Color Palette:** Full hex color support for personalized creations.
+*   **Dark/Light Mode:** Seamless theme transitions for comfortable use in any environment.
+*   **Canvas Actions:** Clear canvas functionality and image export (PNG) support.
+*   **Fully Responsive:** Optimized for both desktop and touch-screen devices.
 
 ## 🛠️ Tech Stack
-
-*   **HTML5:** Structured for accessibility and semantic clarity.
-*   **CSS3:** Modern styling with a focus on user experience (UX).
-*   **JavaScript (ES6+):** Core logic handling arrays, random functions, and event listeners.
-
-## 📋 How It Works
-
-1.  **Input Names:** Type the names of your friends in the input field.
-2.  **Add to List:** Click the "Añadir" button to populate the participant list.
-3.  **Draw Friend:** Once your list is ready, click "Sortear amigo" to get a random result!
-4.  **Security:** The app ensures that the input is not empty before adding.
+*   **Language:** JavaScript (ES6+)
+*   **Rendering:** HTML5 Canvas API
+*   **Styling:** CSS3 with Custom Variables (CSS Vars) for theme management.
+*   **Structure:** Semantic HTML5
 
 ## 🚀 Getting Started
 
